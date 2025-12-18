@@ -13,7 +13,7 @@ public class H1_main {
     public static void main(String[] args) {
         PrioListe pl = new PrioListe();
 
-        // Beispiel aus der Aufgabenbeschreibung (A:1, B:10, C:5, D:7)  [oai_citation:7‡Übungsblätter.pdf](sediment://file_000000002dc871f4a4fa53b2749bfb44)
+        // Beispiel aus der Aufgabenbeschreibung (A:1, B:10, C:5, D:7) 
         Patient A = new Patient("A", 1);
         Patient B = new Patient("B", 10);
         Patient C = new Patient("C", 5);
